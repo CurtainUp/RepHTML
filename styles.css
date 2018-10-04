@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(143, 197, 197)
+}
+
+.rep--big {
+  font-size: 1.5em;
+}
+
+.rep--box {
+  border: solid 5px rgb(1, 1, 68);
+  padding: 10px;
+}
+
+.party {
+  max-width: 100px;
+  max-height: auto;
+}
